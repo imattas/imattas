@@ -1,7 +1,7 @@
 <!-- Top Line Break -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-<h1><b>Hi there, I'm imattas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+# Hi there, I'm imattas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <!-- View Counter -->
 <p align="center">
@@ -9,9 +9,8 @@
 </p>
 
 <!-- About Me -->
-<b>About Me</b>
----
-
+# About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
 I am a passionate developer, always looking to learn and build new things. I love to create innovative solutions and contribute to open-source projects.
 </p>
@@ -30,8 +29,9 @@ I am a passionate developer, always looking to learn and build new things. I lov
 
 <!-- Skills -->
 
-Skills
----
+# Skills
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -42,18 +42,26 @@ Skills
 </p>
 
 <!-- Projects -->
-My Projects
----
+# My Best Project
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <a href="https://github.com/imattas/LibraryLoader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imattas&repo=LibraryLoader" />
-  </a>
-  <a href="https://github.com/imattas/rl-mod-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imattas&repo=rl-mod-template" />
-  </a>
-  <a href="https://github.com/imattas/rocket-league-offset-dumper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imattas&repo=rocket-league-offset-dumper" />
-  </a>
-</div>
 
+  <tr>
+    <td align="center" valign="top">
+      <h3>Rocket League Mod</h3>
+      <a href="https://github.com/imattas/rl-mod-template" target="_blank">
+        <img src="https://i.imgur.com/ofnaNVV.png" width="60%" alt="RL-ModMenu">
+      </a>
+      <p>
+        <a href="https://github.com/imattas/rl-mod-template" target="_blank">
+          <alt="GitHub Badge">
+        </a>
+      </p>
+      <p><strong>imattas mod template</strong> is an advanced Rocket League modding framework using ImGui and KieroHook with custom features, memory tools, and better stability.</p>
+    </td>
+  </tr>
+</table>
+
+<!-- Footer Line Break -->
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
