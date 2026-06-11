@@ -1,0 +1,11 @@
+name = "ipa-cards"
+main = "src/index.js"
+compatibility_date = "2024-09-01"
+
+# The GitHub username the cards are rendered for. Can also be overridden
+# per-request with ?user=NAME on any endpoint.
+[vars]
+USERNAME = "imattas"
+
+# GITHUB_TOKEN is NOT set here — it's a secret. Set it once with:
+#   wrangler secret put GITHUB_TOKEN

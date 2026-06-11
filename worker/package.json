@@ -1,0 +1,13 @@
+{
+  "name": "ipa-cards",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Cloudflare Worker that renders live GitHub profile cards (and an HTB proxy).",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
