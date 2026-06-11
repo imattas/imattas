@@ -81,7 +81,9 @@ async function handleCard(request, env, ctx, url, path) {
   if (hit) return hit;
 
   const user = url.searchParams.get("user") || env.USERNAME || DEFAULT_USER;
-  const token = env.GITHUB_TOKEN;
+  // trim: secrets set via piped stdin can pick up a trailing newline, which
+  // GitHub rejects with 401.
+  const token = (env.GITHUB_TOKEN || "").trim();
   const theme = resolveTheme(url.searchParams);
   const mock = ["1", "true", "yes"].includes((url.searchParams.get("mock") || "").toLowerCase());
 
