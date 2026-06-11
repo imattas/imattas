@@ -106,7 +106,7 @@ ian:x:1000:1000:security researcher,ctf player,os dev:/home/ian:/bin/zsh
 
 <!-- live cards served by the ipa-cards Cloudflare Worker (see worker/README.md).
      replace YOUR-SUBDOMAIN with your workers.dev subdomain after deploying. -->
-![Profile](https://ipa-cards.imattas.workers.dev/github/profile?v=2rank=off)
+![Profile](https://ipa-cards.imattas.workers.dev/github/profile?v=2&rank=off)
 ![Top Languages](https://ipa-cards.imattas.workers.dev/github/languages?v=2)
 
 </div>
