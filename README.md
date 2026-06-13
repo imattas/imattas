@@ -115,6 +115,4 @@ ian:x:1000:1000:security researcher,ctf player,os dev:/home/ian:/bin/zsh
 
 <div align="center">
 
-*"the lower the level, the closer to god"*
-
 </div>
