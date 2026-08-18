@@ -27,7 +27,8 @@ I'm **Ian**, a high school developer interested in cybersecurity, reverse engine
 
 ## Stuff I like
 
-```text
+```console
+ian@github:~$ cat likes.txt
 reverse engineering  •  malware analysis
 CTFs                 •  bug bounties
 binary obfuscation   •  symbolic execution
@@ -36,7 +37,7 @@ cryptography         •  low-level programming
 
 ## Tools & languages
 
-`C` `C++` `Python` `Rust` `Assembly` `IDA` `Ghidra` `Binary Ninja` `GDB` `Z3` `LLVM`
+`C` `C++` `Python` `Rust` `Assembly` `IDA` `Ghidra` `Binary Ninja` `GDB` `Z3` `LLVM` `Python` `C#` `Typescript` `Javascript` `Java`
 
 ```console
 ian@github:~$ ./current-project
