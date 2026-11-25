@@ -9,8 +9,7 @@ cryptography         •  low-level programming
 
 ## Projects I've Contributed To
 
-[ruby/zlib](https://github.com/ruby/zlib)
-[ruby/ruby](https://github.com/ruby/ruby)
+[ruby/zlib](https://github.com/ruby/zlib), [ruby/ruby](https://github.com/ruby/ruby)
 
 ## Tools & languages
 
