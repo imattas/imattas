@@ -9,7 +9,7 @@ cryptography         •  low-level programming
 
 ## Projects I've Contributed To
 
-[ruby/zlib](https://github.com/ruby/zlib), [ruby/ruby](https://github.com/ruby/ruby), [php/php-src](https://github.com/php/php-src), [rails/rails](https://github.com/rails/rails)
+[ruby/stringio](https://github.com/ruby/stringio), [ruby/zlib](https://github.com/ruby/zlib), [ruby/ruby](https://github.com/ruby/ruby), [php/php-src](https://github.com/php/php-src), [rails/rails](https://github.com/rails/rails)
 
 ## Tools & languages
 
